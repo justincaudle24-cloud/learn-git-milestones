@@ -281,7 +281,7 @@ Row | Step | Description | Completed
 5 | 4-1 | 2nd Favorite emoji |🥸
 6 | 4-2 | Link to `commit #2 from Github Desktop` |<a href=" https://github.com/justincaudle24-cloud/learn-git-milestones/commit/a02ad105885a65f81bd3146a235654c98629449c ">commit #2 from Github Desktop </a>
 7 | 5-1 | Full path to your working directory | /Users/justincaudle/Documents/GitHub/learn-git-milestones
-8 | 5-2 | Link to `commit #3 from CLI` |
+8 | 5-2 | Link to `commit #3 from CLI` |<a href=" https://github.com/justincaudle24-cloud/learn-git-milestones/commit/8c7a2a53f0289fb100909037a23e51c4fabb4128">Link to commit #3 from CLI </a>
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
 

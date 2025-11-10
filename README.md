@@ -283,7 +283,7 @@ Row | Step | Description | Completed
 7 | 5-1 | Full path to your working directory | /Users/justincaudle/Documents/GitHub/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` |<a href="https://github.com/justincaudle24-cloud/learn-git-milestones/commit/8c7a2a53f0289fb100909037a23e51c4fabb4128">Link to commit #3 from CLI </a>
 9 | 6-1 | Link to `first-website` github.com repo page |<a href="https://github.com/justincaudle24-cloud/first-website">Link to website</a>
-10 | 7-1 | Link to `first-website` github.io "project site" |<a href="https://justincaudle24-cloud.github.io/first-website/">Link to website</a>
+10 | 7-1 | Link to `first-website` github.io "project site" |<a href="https://justincaudle24-cloud.github.io/first-website/">website url</a>
 
 
 
